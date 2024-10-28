@@ -1,5 +1,5 @@
 ## Machine Learning HomeWork Deep Learning.
-#### Create Deep Learning Model to classify pet
+#### Create Deep Learning Model to classify pets.
 - (Dog or Cat) from oxford_iiit_pet
 - 37 Classes
 - Create Model using CNN and RestNetV2
